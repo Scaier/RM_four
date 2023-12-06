@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/caiersheng/下载/task_final/build",
+  "command": "/usr/bin/c++ -DGFLAGS_IS_A_DLL=0 -DGOOGLE_GLOG_DLL_DECL=\"\" -DGOOGLE_GLOG_DLL_DECL_FOR_UNITTESTS=\"\" -I/home/caiersheng/下载/task_final/include -isystem /usr/local/include/opencv -isystem /usr/include/eigen3 -g -std=gnu++17 -o CMakeFiles/task_final.dir/main.cpp.o -c /home/caiersheng/下载/task_final/main.cpp",
+  "file": "/home/caiersheng/下载/task_final/main.cpp"
+},
+{
+  "directory": "/home/caiersheng/下载/task_final/build",
+  "command": "/usr/bin/c++ -DGFLAGS_IS_A_DLL=0 -DGOOGLE_GLOG_DLL_DECL=\"\" -DGOOGLE_GLOG_DLL_DECL_FOR_UNITTESTS=\"\" -I/home/caiersheng/下载/task_final/include -isystem /usr/local/include/opencv -isystem /usr/include/eigen3 -g -std=gnu++17 -o CMakeFiles/task_final.dir/src/windmill.cpp.o -c /home/caiersheng/下载/task_final/src/windmill.cpp",
+  "file": "/home/caiersheng/下载/task_final/src/windmill.cpp"
+}
+]

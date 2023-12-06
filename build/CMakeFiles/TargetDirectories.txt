@@ -1,0 +1,3 @@
+/home/caiersheng/下载/task_final/build/CMakeFiles/task_final.dir
+/home/caiersheng/下载/task_final/build/CMakeFiles/edit_cache.dir
+/home/caiersheng/下载/task_final/build/CMakeFiles/rebuild_cache.dir
